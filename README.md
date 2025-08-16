@@ -1,4 +1,4 @@
 # Harini-demo
 This is my first Git Repository.
 <br>
-Author-Sri Harini
+Author-Sri Harini (Chinnu)
